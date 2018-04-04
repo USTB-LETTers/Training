@@ -4,5 +4,6 @@
 
 - Solution Report [member, problem]
 - Training Report [member, contest]
-- Team Log Book [team, contest]
 - Member Log Book [member, problem]
+- Team Log Book [team, contest]
+
