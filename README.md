@@ -2,6 +2,6 @@
 
 ## 2018 icpc invitationals training record
 
-- Solution Report [member, problem]
-- Training Report [member, contest]
+- Solution Report for problem
+- Training Report for contest
 
