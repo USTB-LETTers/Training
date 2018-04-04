@@ -1,0 +1,1 @@
+# crazyX init file
