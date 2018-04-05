@@ -35,6 +35,6 @@
 
 | ProblemID | Tags | 解题要点 | 
 | :-: | :-: | :-: | 
-| [POJ1000](http://poj.org/problem?id=1000) | 水题 | 直接实现即可 | 
+| [HDU4847-TA-Wow! Such Doge!](https://vjudge.net/contest/220459#problem/A) | 水题 | 直接实现即可 | 
 | [placeholder] | [placeholder] | [placeholder] | 
 | [placeholder] | [placeholder] | [placeholder] |
