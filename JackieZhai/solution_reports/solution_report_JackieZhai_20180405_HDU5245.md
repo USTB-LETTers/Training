@@ -15,8 +15,8 @@
 1. 所选的两个点都在(r,c)的——<br>
     上面：有(r−1)<sup>2</sup>N<sup>2</sup>种情况<br>
     左面：有M<sup>2</sup>(c−1)<sup>2</sup>种情况<br>
-    下面:有(M−r)<sup>2</sup>N<sup>2</sup>种情况<br>
-    右面:有M<sup>2</sup>(N−c)<sup>2</sup>种情况<br>
+    下面：有(M−r)<sup>2</sup>N<sup>2</sup>种情况<br>
+    右面：有M<sup>2</sup>(N−c)<sup>2</sup>种情况<br>
 2. 其中四个角被计重了，要再减去——<br>
     左上角：计重了(r−1)<sup>2</sup>(c−1)<sup>2</sup><br>
     左下角：计重了(M−r)<sup>2</sup>(c−1)<sup>2</sup><br>
