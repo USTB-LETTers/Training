@@ -1,7 +1,7 @@
 # LETTers Solution Report
 
 - Date: 2 April 2018
-- Author: crazyX
+- Author: JackieZhai
 - Problem ID: [HDU5237](http://acm.hdu.edu.cn/showproblem.php?pid=5237)
 
 ## Description modeling
