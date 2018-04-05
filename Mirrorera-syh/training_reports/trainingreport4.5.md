@@ -2,7 +2,7 @@
 
 - Date: 2 April 2018
 - Author: crazyX
-- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 孙宇辉&康晟毓](https://cn.vjudge.net/contest/219043)
+- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 孙宇辉&康晟毓](https://vjudge.net/contest/220459)
 
 ## Part I - 练习赛总结
 
