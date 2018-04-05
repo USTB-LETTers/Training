@@ -1,6 +1,6 @@
 # LETTers Solution Report
 
-- Date: 2 April 2018
+- Date: 5 April 2018
 - Author: JackieZhai
 - Problem ID: [HDU5245](http://acm.hdu.edu.cn/showproblem.php?pid=5245)
 
