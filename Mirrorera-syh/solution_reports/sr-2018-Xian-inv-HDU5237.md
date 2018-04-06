@@ -1,4 +1,4 @@
-# LETTers Solution Report
+
 # LETTers Solution Report
 
 - Date: 2 April 2018
