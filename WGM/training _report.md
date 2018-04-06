@@ -36,4 +36,6 @@ cf的题面都很长，基本是在讲故事，虽然做题体验不是很好，
 
 ## Part I - AC情况(只包含赛时)
 
+| ProblemID | Tags | 解题要点 | 
+| :-: | :-: | :-: | 
 | [HDU - 2111](http://acm.hdu.edu.cn/showproblem.php?pid=2111) | 水题 | 直接贪心选取即可 | 
