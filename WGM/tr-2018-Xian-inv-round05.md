@@ -40,4 +40,3 @@
 | :-: | :-: | :-: | 
 | [HDU - 5240](http://acm.hdu.edu.cn/showproblem.php?pid=5240) | 贪心 | 排序 优先准备最早的考试 | 
 | [HDU - 5237](http://acm.hdu.edu.cn/showproblem.php?pid=5237) | 模拟 | 末尾补0（十进制表现为乘2） 求对应64进制 末尾再补‘=’ 执行k次 | 
-| [placeholder] | [placeholder] | [placeholder] |
