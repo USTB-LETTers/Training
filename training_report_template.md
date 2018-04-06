@@ -32,7 +32,7 @@
 
 [placeholder]
 
-## Part I - AC情况(只包含赛时)
+## Part II - AC情况(只包含赛时)
 
 | ProblemID | Tags | 解题要点 | 
 | :-: | :-: | :-: | 
