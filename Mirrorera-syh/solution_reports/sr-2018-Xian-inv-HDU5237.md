@@ -1,8 +1,8 @@
 
 # LETTers Solution Report
 
-- Date: 2 April 2018
-- Author: crazyX
+- Date: 6 April 2018
+- Author: Mirrorera
 - Problem ID: [HDU5237](https://vjudge.net/contest/220605#problem/B)
 
 ## Description modeling
