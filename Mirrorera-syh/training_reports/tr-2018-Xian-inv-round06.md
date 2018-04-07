@@ -1,9 +1,9 @@
-
+5
 # LETTers Training Report
 
 - Date: 7 April 2018
 - Author: Mirrorera
-- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 孙宇辉&张昊坤 ](https://vjudge.net/contest/220605)
+- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 06 for 吴国铭&孙宇辉 ](https://vjudge.net/contest/220856)
 
 ## Part I - 练习赛总结
 
