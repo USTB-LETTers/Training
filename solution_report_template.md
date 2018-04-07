@@ -1,17 +1,18 @@
 # LETTers Solution Report
 
-- Date: 2 April 2018
-- Author: crazyX
-- Problem ID: [POJ1000](http://poj.org/problem?id=1000)
+- Date: 7 April 2018
+- Author: WGM
+- Problem ID: [HDU2736](http://acm.hdu.edu.cn/showproblem.php?pid=2736)
 
 ## Description modeling
 
-[PlaceHolder]
+遍历点对的距离，用map记录两点，并判断是否重复；
+入map时若遇到已经重复的，就break，直接出答案
 
 ## Points in solving
 
-[PlaceHolder]
+每次改变点对距离，清空map；
 
 ## Warnings
 
-[PlaceHolder]
+点对用结构体表示，由于map用红黑树实现，结构体作下标时需要手写<操作符
