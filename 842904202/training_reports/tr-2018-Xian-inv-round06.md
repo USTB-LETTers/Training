@@ -1,8 +1,8 @@
 # LETTers Training Report
 
-- Date: 6 April 2018
+- Date: 7 April 2018
 - Author: Alice_Margatroid
-- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 孙宇辉&张昊坤](https://vjudge.net/contest/220605)
+- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 06 for 康晟毓&张昊坤](https://vjudge.net/contest/220855)
 
 ## Part I - 练习赛总结
 
