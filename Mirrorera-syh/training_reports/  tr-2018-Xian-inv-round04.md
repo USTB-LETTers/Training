@@ -1,7 +1,7 @@
 # LETTers Training Report
 
-- Date: 2 April 2018
-- Author: crazyX
+- Date: 5 April 2018
+- Author: Mirrorera
 - ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 孙宇辉&康晟毓](https://vjudge.net/contest/220459)
 
 ## Part I - 练习赛总结
@@ -31,7 +31,7 @@
 
 [placeholder]
 
-## Part I - AC情况(只包含赛时)
+## Part II - AC情况(只包含赛时)
 
 | ProblemID | Tags | 解题要点 | 
 | :-: | :-: | :-: | 
