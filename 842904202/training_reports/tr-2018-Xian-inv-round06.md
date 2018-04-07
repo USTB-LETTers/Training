@@ -40,5 +40,9 @@
 
 暂无
 
-## Part II - AC情况(只包含赛时)
+## Part II - AC情况
+| ProblemID | Tags | 解题要点 | 
+| :-: | :-: | :-: | 
+| [HDU - 2736](https://vjudge.net/contest/220855#problem/F) | 水题 | 直接实现即可 | 
+| [CodeForces - 616B](https://vjudge.net/contest/220855#problem/I) | 水题 | 直接实现即可 | 
 
