@@ -1,6 +1,6 @@
 # LETTers Solution Report
 
-- Date: 2 April 2018
+- Date: 5 April 2018
 - Author: Alice_Margatroid
 - Problem ID: [HDU - 1722 ](https://vjudge.net/contest/220479#problem/A)
 
