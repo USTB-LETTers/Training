@@ -1,0 +1,25 @@
+# LETTers Solution Report
+ ACM 题解 树状数组
+---
+- Date: 10 April 2018
+- Author: Mirrorera
+- Problem ID: [POJ1990](https://vjudge.net/contest/221157#problem/I)
+
+## Description modeling
+
+美国人的题就是骚）
+**题意:**  
+给定N个二元组，两个数分别表示其在数轴上的位置和一个题设vol，
+求$\sum_{(i,j)}^{i < j <= N} max(vol_i,vol_j)*|pos_i - pos_j| $
+
+## Points in solving
+
+如果暴力枚举所有点对，时间复杂度为$O(n^2)$，显然会t，所以我们需要更优的算法
+首先，考虑$max(vol_i,vol_j)$部分，事实上，这部分运算可以通过改变处理顺序来解决。如果我们按照vol递减的顺序进行计算，那么每次就可以省略max的运算，直接用当前的vol乘以该点与其他所有点的距离之和。等等，所有点的距离之和？区间求和可以采用前缀和，这需要预处理，而$D_k = \sum_i d_i = \sum_i |x_i - x_k| \\
+= -\sum_{i = 0}^{k - 1} x_i + \sum_{i = k + 1}^N x_i - (N - k)x_k +(k - 1)x_k$
+经过前缀和优化之后
+## Warnings
+
+[PlaceHolder]
+
+
