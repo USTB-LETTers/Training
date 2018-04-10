@@ -2,7 +2,7 @@
 
 - Date: 10 April 2018
 - Author: JackieZhai
-- Problem ID: [CodeForces415C](http://codeforces.com/problemset/problem/415/C)
+- Problem ID: [POJ3320](http://poj.org/problem?id=3320) 
 
 ## Description modeling
 
