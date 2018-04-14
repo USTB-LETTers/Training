@@ -86,22 +86,15 @@ int main()
     for(int i=0; i<n; i++)
     {
         int am, bm;
-        if(m.find(a-num[i])!=m.end())
-        {
+	//exsit or not?
+        if(m.find(a-num[i])!=m.end())
             am=m[a-num[i]];
-        }
         else
-        {
             am=-1;
-        }
         if(m.find(b-num[i])!=m.end())
-        {
             bm=m[b-num[i]];
-        }
         else
-        {
             bm=-1;
-        }
         //cout<<am<<" "<<bm<<endl;
         if(am!=-1)
             unite(i, am);
