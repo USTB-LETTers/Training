@@ -2,8 +2,8 @@
 
 - Date: 14 April 2018
 - Author: Alice_Margatroid
-- ID and Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 04 for 吴国铭&张昊坤
-](https://vjudge.net/contest/220479)
+- ID and Title of Contest: LETTers 2018 Shannxi Invitational Training Round 10
+](https://vjudge.net/contest/222509)
 
 ## Part I - 练习赛总结
 
