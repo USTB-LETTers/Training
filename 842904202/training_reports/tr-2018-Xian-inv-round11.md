@@ -3,8 +3,8 @@
 
 - Date: 14 April 2018
 - Author: Alice_Margatroid
-- ID and Title of Contest: LETTers 2018 Shannxi Invitational Training Round 10
-](https://vjudge.net/contest/222509)
+- ID and Title of Contest: LETTers 2018 Shannxi Invitational Training Round 11
+](https://vjudge.net/contest/222750)
 
 ## Part I - 练习赛总结
 
