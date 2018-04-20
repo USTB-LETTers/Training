@@ -15,7 +15,7 @@
 
 ## Warnings
 
-- 无
+- 注意不用ll会WA！
 
 ```c++
 #include <cstdio>
@@ -23,10 +23,12 @@
 #include <algorithm>
 using namespace std;
 
-int h, w;
-int ans[15][15];
+typedef long long ll;
 
-int dp[2][1<<15];
+int h, w;
+ll ans[15][15];
+
+ll dp[2][1<<15];
 
 int main()
 {
@@ -35,7 +37,7 @@ int main()
         for(int m=1; m<=11; m++)
         {
             memset(dp, 0, sizeof(dp));
-            int *crt=dp[0], *next=dp[1];
+            ll *crt=dp[0], *next=dp[1];
             crt[0]=1;
             for(int i=n-1; i>=0; i--)
             {
@@ -49,7 +51,7 @@ int main()
                         }
                         else
                         {
-                            int res=0;
+                            ll res=0;
                             if(j+1<m && !(used>>(j+1)&1))
                             {
                                 res+=crt[used | 1<<(j+1)];
@@ -72,7 +74,7 @@ int main()
     {
         if(h==0 && w==0)
             break;
-        printf("%d\n", ans[h][w]);
+        printf("%lld\n", ans[h][w]);
     }
 
     return 0;
