@@ -1,6 +1,7 @@
-LETTers 2018 Invitational Training Report
+#LETTers 2018 Invitational Training Report
 
 Author:syh
+
 Submitting Date: 10 May
 
 Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 14](https://vjudge.net/contest/228287)
