@@ -1,10 +1,10 @@
 # LETTers 2018 Invitational Training Report
 
-Author:syh
+**Author:** syh
 
-Submitting Date: 10 May
+**Submitting Date:** 10 May
 
-Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 14](https://vjudge.net/contest/228287)
+**Title of Contest:** [LETTers 2018 Shannxi Invitational Training Round 14](https://vjudge.net/contest/228287)
 
 ### 题目总体结构分析：
  - A 水题
