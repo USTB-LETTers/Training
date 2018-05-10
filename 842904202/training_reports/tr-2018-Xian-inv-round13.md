@@ -28,3 +28,6 @@ Title of Contest:
 暂无
 
 AC List
+| ID | My work | Tags | Points |
+| :-: | :-: | :-: | 
+| HDU - 6187 | 参与讨论（其实也没说啥有用的） | 最大生成树 | 初始坐标和输入坐标都是干扰项，只具有拓扑意义 |
