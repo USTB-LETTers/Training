@@ -32,6 +32,6 @@
 
 |ID|Work|Tags|Points|
 |:-:|:-:|:-:|:-:|
-|A|Reading & Coding|快速幂|无|
+|A|Reading & Coding|水题|无|
 |F|Coding|最大生成树|排除无用的点坐标等信息|
 |G|Thinking & Coding|线性dp|较easy|
