@@ -1,6 +1,6 @@
 # LETTers 2018 Invitational Training Report
 
-- Author: WGM
+- Author: SYH
 - Submitting Date: 13 MAY 2018
 - Title of Contest: [LETTers 2018 Shannxi Invitational Training Round 16](https://vjudge.net/contest/228885)
 
