@@ -1,6 +1,6 @@
 # LETTers Solution Report
 
-- Date: 8 April 2018
+- Date: 20 July 2018
 - Author: Alice_Margatroid
 - Problem ID: [CodeForces - 415A  ](https://vjudge.net/contest/221157#problem/E)
 
