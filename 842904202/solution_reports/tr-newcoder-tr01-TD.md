@@ -25,7 +25,7 @@
 
 ##code
 
-···c++
+···
 #include<bits/stdc++.h>
 using namespace std;
 int v[100005];
