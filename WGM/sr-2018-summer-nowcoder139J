@@ -17,3 +17,117 @@
 ## Warnings
 
 把之前出现位置的贡献变成0的时候，树状数组的更新应该是-1，而不是赋值0，因为树状数组记录的是和而不是值。
+
+## Codes
+```c++
+
+#include<bits/stdc++.h>
+using namespace std;
+
+int lowbit(int x)
+{
+	if(x == 0)
+		return 0;
+	return x & (-x);
+}
+
+const int MAXN = 100000 + 7;
+int tree[MAXN << 1],N;
+
+int Query(int r)
+{
+	int sum = 0;
+	while(r >= 1)
+	{
+		sum += tree[r];
+		r -= lowbit(r);
+	}
+
+	return sum;
+}
+
+void Update(int x,int v)
+{
+	while(x <= (N << 1))
+	{
+		tree[x] += v;
+		x += lowbit(x);
+	}
+	return;
+}
+
+int num[MAXN << 1];
+struct Q
+{
+	int l,r,n,ans;
+}q[MAXN << 1];
+
+bool cmp(Q x,Q y)
+{
+	if( (x.r < y.r) || ( (x.r == y.r) && (x.l <= y.l) ) )
+		return true;
+	return false;
+}
+
+bool cmpn(Q x,Q y)
+{
+	return x.n < y.n;
+}
+
+int pos[MAXN << 1];
+int vis[MAXN << 1];
+int main()
+{
+	while(~scanf("%d",&N))
+	{
+		int M;
+		scanf("%d",&M);
+		for(int i=1; i<=N; i++)
+		{
+			scanf("%d",&num[i]);
+			num[i+N] = num[i];
+		}
+		for(int i=1; i<=M; i++)
+		{
+			scanf("%d %d",&q[i].l, &q[i].r);
+			int t = q[i].l;
+			q[i].l = q[i].r;
+			q[i].r = t + N;
+			q[i].n = i;
+		}
+		sort(q+1, q+M+1, cmp);
+
+		int nowq = 1; 
+		memset(pos,0,sizeof(pos));
+		memset(vis,0,sizeof(vis));
+		memset(tree,0,sizeof(tree));
+		
+		for(int i=1; i<=(N << 1); i++)
+		{
+			if(pos[ num[i] ])
+			{
+				vis[ pos[ num[i] ] ] = 0;
+				Update(pos[ num[i] ],-1);
+			}
+			vis[i] = 1;
+			pos[ num[i] ] = i;
+			Update(i,vis[i]);
+
+			while(i == q[nowq].r)
+			{
+				q[nowq].ans = Query(q[nowq].r) - Query(q[nowq].l - 1);
+				nowq++;
+			}
+			
+		}
+
+		sort(q+1,q+M+1,cmpn);
+		for(int i=1; i<=M; i++)
+			printf("%d\n",q[i].ans);
+	}
+		
+
+	return 0;
+}
+
+```
