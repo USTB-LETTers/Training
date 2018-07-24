@@ -8,7 +8,7 @@
 ## Description modeling
 
 - 与简单DP相比，不好处理的是删了不同位置的相同数字，导致子序列重复
-- - 值得
+-- 值得
 
 ## Points in solving
 
