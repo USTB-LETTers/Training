@@ -6,7 +6,7 @@
 - Problem ID: [TD](https://www.nowcoder.com/acm/contest/140/D)
 
 ## Description modeling
-Greedy or Dp
+Greedy
 
 ## Points in solving
 设最大收益为ANS，将数列划分为数个极大连续不下降子序列，设第i个子序列最大值-最小值为v[i]<br>
