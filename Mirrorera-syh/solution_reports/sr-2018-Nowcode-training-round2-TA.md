@@ -11,7 +11,7 @@ linear dp
 ## Points in solving
 
 \begin{cases}
-dp[i][0] = dp[i - 1][0] + dp[i - 1][1]
+dp[i][0] = dp[i - 1][0] + dp[i - 1][1]\\
 dp[i][1] = dp[i - k][0]
 \end{cases}
 
