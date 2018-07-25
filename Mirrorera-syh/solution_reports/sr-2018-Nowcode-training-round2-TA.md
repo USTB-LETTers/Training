@@ -10,9 +10,9 @@ linear dp
 
 ## Points in solving
 
-\begin{cases}
+\begin{cases}<br>
 dp[i][0] = dp[i - 1][0] + dp[i - 1][1]<br>
-dp[i][1] = dp[i - k][0]
+dp[i][1] = dp[i - k][0]<br>
 \end{cases}
 
 ## Warnings
