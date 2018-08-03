@@ -3,7 +3,7 @@
 
 - Date: 3 August 2018
 - Author: WGM
-- Problem ID: [nowcoder - 143G](https://www.nowcoder.com/acm/contest/143/AG)
+- Problem ID: [nowcoder - 143G](https://www.nowcoder.com/acm/contest/143/G)
 
 ## Description modeling
 
