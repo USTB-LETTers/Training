@@ -13,4 +13,4 @@
 如果 c<2n，那么选 a=b=c 最优 <br>
 否则选 a=(n/c)*c , b=((n/c)-1)c
 ## Warnings
-None。
+None.
