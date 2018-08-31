@@ -6,7 +6,7 @@
 
 ## Description modeling
 
-- 乍一看，似乎没有多少种情况。 $2^30$ 或者 $7^11$ 就已经够了，完全可以暴搜。
+- 乍一看，似乎没有多少种情况。 <a href="https://www.codecogs.com/eqnedit.php?latex=2^{30}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2^{30}" title="2^{30}" /></a> 或者 <a href="https://www.codecogs.com/eqnedit.php?latex=7^{11}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?7^{11}" title="7^{11}" /></a> 就已经够了，完全可以暴搜。
 - 注意一下每层循环变量不同，否则后面会爆long long。
 
 ## Points in solving
