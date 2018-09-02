@@ -21,7 +21,7 @@
 
 4. 得出方程,设 depend[i][j] 为点i所依赖的点,dep表示当前状态 1 的个数
 
-    - $dp[state] = max\{\;dp[state | oper] + A[i] \cdot (dep + 1) + B[i])\;\} ,\; (1 << depend[i][j])\; \& \; state == true$
+    $$dp[state] = max\{\;dp[state | oper] + A[i] \cdot (dep + 1) + B[i])\;\} ,\; (1 << depend[i][j])\; \& \; state == true$$
 
 ## Warnings
 
