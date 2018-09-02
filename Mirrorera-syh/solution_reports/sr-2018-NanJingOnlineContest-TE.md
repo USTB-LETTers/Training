@@ -7,9 +7,9 @@
 
 ## Description modeling
 
- - 给出一些点之间的依赖关系，每个点有权值 A 和 B ，定义收益为 A $\times$ T + B ，求最大收益
+    给出一些点之间的依赖关系，每个点有权值 A 和 B ，定义收益为 A $\times$ T + B ，求最大收益
 
- - 保证点数 $N < 20$
+    保证点数 $N < 20$
 
 ## Points in solving
 
@@ -25,4 +25,5 @@
 
 ## Warnings
 
- - None.
+    None.
+
