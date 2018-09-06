@@ -1,0 +1,19 @@
+
+# LETTers Solution Report
+
+- Date: 5st Sep 2018
+- Author: Mirrorera
+- Problem ID:  [**LETTers 2018 ICPC Regional Training Contest Stage II - Round 5 for Polaris** H](https://vjudge.net/contest/252184#problem/H)
+
+## Description modeling
+
+ - 输入一个无向图，无重边无自环，求能否将点集划分为两个使得所有边与点集相连
+ - 即判断该图是否为二分图
+
+## Points in solving
+
+ - dfs记录时间戳，访问到已访问节点时，判断当前时间与之前记录的奇偶情况是否相同，不同则不是二分图
+
+## Warnings
+
+ - None.
